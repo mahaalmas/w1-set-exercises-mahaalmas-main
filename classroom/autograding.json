@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "HelloWorld",
+      "setup": "",
+      "run": "make test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
