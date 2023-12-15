@@ -1,0 +1,3 @@
+﻿  task1-functions.cpp
+D:\MAHA\2\w1-set-exercises-mahaalmas-main\tasks\task1\task1-functions.cpp(8,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  task1.vcxproj -> D:\MAHA\2\w1-set-exercises-mahaalmas-main\tasks\x64\Debug\task1.exe

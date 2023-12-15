@@ -1,0 +1,6 @@
+﻿  task2-functions.cpp
+D:\MAHA\2\w1-set-exercises-mahaalmas-main\tasks\task2\task2-functions.cpp(47,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MAHA\2\w1-set-exercises-mahaalmas-main\tasks\task2\task2-functions.cpp(58,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  task2.cpp
+  Generating Code...
+  task2.vcxproj -> D:\MAHA\2\w1-set-exercises-mahaalmas-main\tasks\x64\Debug\task2.exe
